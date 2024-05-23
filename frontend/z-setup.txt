@@ -1,0 +1,15 @@
+npx create-next-app@latest
+
+npx shadcn-ui@latest init
+
+
+npx shadcn-ui@latest add button
+npx shadcn-ui@latest add label
+npx shadcn-ui@latest add card 
+npx shadcn-ui@latest add table 
+
+npm install @tanstack/react-table
+
+
+
+npm install universal-cookie

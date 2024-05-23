@@ -1,0 +1,7 @@
+
+venv/
+
+/frontend/public/images/*
+/frontend/public/videos/*
+/frontend/public/products/*
+/frontend/public/users/*

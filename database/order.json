@@ -1,0 +1,402 @@
+[
+{
+    "id": 1,
+    "user_id": 1,
+    "products": ["Thinkpad T470","Beats B550","SM3 Smartwatch"],
+    "total_price": 32000,
+    "tracking_code": "23000",
+    "address": "21 jumpstreet 5th boulevard",
+    "status": "delivered",
+    "date": "2023-11-15"
+},
+{
+    "id": 2,
+    "user_id": 1,
+    "products": ["MacBook Pro", "iPhone 13", "AirPods Pro"],
+    "total_price": 15000,
+    "tracking_code": "48293",
+    "address": "21 jumpstreet 5th boulevard",
+    "status": "in-transit",
+    "date": "2024-03-22"
+},
+{
+    "id": 3,
+    "user_id": 1,
+    "products": ["Dell XPS 13", "Google Pixel 6", "Sony WH-1000XM4", "Kindle Paperwhite"],
+    "total_price": 60000,
+    "tracking_code": "19583",
+    "address": "21 jumpstreet 5th boulevard",
+    "status": "canceled",
+    "date": "2023-06-10"
+},
+{
+    "id": 4,
+    "user_id": 1,
+    "products": ["HP Spectre x360", "Samsung Galaxy S21", "Jabra Elite 75t", "Fitbit Versa 3", "Apple Watch Series 6"],
+    "total_price": 45000,
+    "tracking_code": "37294",
+    "address": "21 jumpstreet 5th boulevard",
+    "status": "delivered",
+    "date": "2023-12-01"
+},
+{
+    "id": 5,
+    "user_id": 2,
+    "products": ["Lenovo Yoga 7i", "OnePlus 9", "Bose QuietComfort 35", "Oculus Quest 2", "iPad Air", "Surface Pro 7"],
+    "total_price": 25000,
+    "tracking_code": "59103",
+    "address": "21 jumpstreet 5th boulevard",
+    "status": "in-transit",
+    "date": "2023-07-18"
+},
+{
+    "id": 6,
+    "user_id": 2,
+    "products": ["Asus ZenBook 14", "Xiaomi Mi 11", "Beats Studio3", "Garmin Forerunner 945", "Amazon Echo Dot", "Nikon D3500", "Roku Streaming Stick+"],
+    "total_price": 10000,
+    "tracking_code": "84721",
+    "address": "21 jumpstreet 5th boulevard",
+    "status": "canceled",
+    "date": "2023-09-25"
+},
+{
+    "id": 7,
+    "user_id": 3,
+    "products": ["Surface Laptop 4", "iPad Pro", "Galaxy Buds Pro", "Fitbit Charge 5"],
+    "total_price": 27500,
+    "tracking_code": "29483",
+    "address": "456 Elm Street, Apt 12B",
+    "status": "delivered",
+    "date": "2024-01-15"
+},
+{
+    "id": 8,
+    "user_id": 4,
+    "products": ["Razer Blade 15", "Huawei P50", "Sonos One", "Nvidia Shield"],
+    "total_price": 35000,
+    "tracking_code": "30847",
+    "address": "789 Maple Avenue, Suite 300",
+    "status": "in-transit",
+    "date": "2024-02-05"
+},
+{
+    "id": 9,
+    "user_id": 5,
+    "products": ["MacBook Air", "Pixel 5", "JBL Flip 5", "Apple TV 4K"],
+    "total_price": 22500,
+    "tracking_code": "48501",
+    "address": "123 Pine Street, House 7",
+    "status": "delivered",
+    "date": "2024-03-18"
+},
+{
+    "id": 10,
+    "user_id": 6,
+    "products": ["Dell Inspiron 15", "OnePlus 8T", "Sony WF-1000XM3", "Kindle Oasis"],
+    "total_price": 27000,
+    "tracking_code": "96275",
+    "address": "555 Birch Lane, Unit 22",
+    "status": "in-transit",
+    "date": "2024-04-12"
+},
+{
+    "id": 11,
+    "user_id": 7,
+    "products": ["HP Envy x360", "Moto G Power", "Echo Show 8", "Fitbit Inspire 2"],
+    "total_price": 18000,
+    "tracking_code": "67419",
+    "address": "678 Cedar Road, Flat 3C",
+    "status": "delivered",
+    "date": "2024-05-25"
+},
+{
+    "id": 12,
+    "user_id": 8,
+    "products": ["Acer Swift 3", "Google Nest Hub", "Beats Solo Pro", "Xbox Series S"],
+    "total_price": 23500,
+    "tracking_code": "74829",
+    "address": "890 Spruce Street, Floor 4",
+    "status": "in-transit",
+    "date": "2024-06-14"
+},
+{
+    "id": 13,
+    "user_id": 9,
+    "products": ["Lenovo Legion 5", "Redmi Note 10", "Google Chromecast", "Samsung Galaxy Buds Live"],
+    "total_price": 19500,
+    "tracking_code": "12345",
+    "address": "321 Walnut Street, Room 1A",
+    "status": "delivered",
+    "date": "2024-07-22"
+},
+{
+    "id": 14,
+    "user_id": 10,
+    "products": ["Microsoft Surface Go", "Huawei Mate 40", "Bose SoundLink", "Roku Ultra"],
+    "total_price": 29000,
+    "tracking_code": "56789",
+    "address": "432 Ash Street, Box 8",
+    "status": "in-transit",
+    "date": "2024-08-11"
+},
+{
+    "id": 15,
+    "user_id": 1,
+    "products": ["Asus ROG Zephyrus", "Oppo Find X3", "Sonos Beam", "Kindle Fire HD 10"],
+    "total_price": 38500,
+    "tracking_code": "91011",
+    "address": "21 Jumpstreet 5th Boulevard",
+    "status": "delivered",
+    "date": "2024-09-29"
+  },
+{
+    "id": 16,
+    "user_id": 2,
+    "products": ["HP Omen 15", "Realme 8 Pro", "Google Nest Mini", "Fitbit Versa 2"],
+    "total_price": 25000,
+    "tracking_code": "24356",
+    "address": "21 Jumpstreet 5th Boulevard",
+    "status": "in-transit",
+    "date": "2024-10-10"
+},
+{
+    "id": 17,
+    "user_id": 3,
+    "products": ["LG Gram", "Sony Xperia 1", "Amazon Echo", "JBL Charge 4"],
+    "total_price": 34500,
+    "tracking_code": "65748",
+    "address": "456 Elm Street, Apt 12B",
+    "status": "delivered",
+    "date": "2024-11-23"
+},
+{
+    "id": 18,
+    "user_id": 4,
+    "products": ["Alienware M15", "Vivo X60", "Anker Soundcore", "Google Home"],
+    "total_price": 27500,
+    "tracking_code": "89012",
+    "address": "789 Maple Avenue, Suite 300",
+    "status": "in-transit",
+    "date": "2024-12-07"
+},
+{
+    "id": 19,
+    "user_id": 5,
+    "products": ["MSI GS66", "Nokia 8.3", "Marshall Stanmore", "Apple HomePod"],
+    "total_price": 42000,
+    "tracking_code": "45678",
+    "address": "123 Pine Street, House 7",
+    "status": "delivered",
+    "date": "2024-01-19"
+},
+{
+    "id": 20,
+    "user_id": 6,
+    "products": ["Razer Book 13", "Samsung Galaxy A52", "Bose Portable Home Speaker", "Fire TV Stick 4K"],
+    "total_price": 31000,
+    "tracking_code": "13579",
+    "address": "555 Birch Lane, Unit 22",
+    "status": "in-transit",
+    "date": "2024-02-28"
+},
+{
+    "id": 21,
+    "user_id": 7,
+    "products": ["Google Pixelbook Go", "Realme GT", "Echo Dot 4th Gen", "JBL Go 3"],
+    "total_price": 22000,
+    "tracking_code": "57913",
+    "address": "678 Cedar Road, Flat 3C",
+    "status": "delivered",
+    "date": "2024-03-21"
+},
+{
+    "id": 22,
+    "user_id": 8,
+    "products": ["HP Pavilion 14", "Oppo Reno5", "Google Nest Hub Max", "Fitbit Charge 4"],
+    "total_price": 26500,
+    "tracking_code": "64820",
+    "address": "890 Spruce Street, Floor 4",
+    "status": "in-transit",
+    "date": "2024-04-15"
+},
+{
+    "id": 23,
+    "user_id": 9,
+    "products": ["Dell Vostro 14", "Poco X3", "Amazon Echo Show 5", "Anker Nebula Capsule"],
+    "total_price": 28000,
+    "tracking_code": "79132",
+    "address": "321 Walnut Street, Room 1A",
+    "status": "delivered",
+    "date": "2024-05-08"
+},
+{
+    "id": 24,
+    "user_id": 10,
+    "products": ["Asus VivoBook S15", "Huawei Y9a", "Sony XB33", "Roku Express 4K"],
+    "total_price": 31000,
+    "tracking_code": "31415",
+    "address": "432 Ash Street, Box 8",
+    "status": "in-transit",
+    "date": "2024-06-24"
+},
+{
+    "id": 25,
+    "user_id": 1,
+    "products": ["Lenovo ThinkPad X1", "OnePlus Nord", "Google Nest Audio", "Samsung Galaxy Watch 4"],
+    "total_price": 39000,
+    "tracking_code": "27182",
+    "address": "21 Jumpstreet 5th Boulevard",
+    "status": "delivered",
+    "date": "2024-07-15"
+},
+{
+    "id": 26,
+    "user_id": 2,
+    "products": ["Acer Predator Helios", "Motorola Edge+", "JBL PartyBox", "Amazon Fire HD 8"],
+    "total_price": 36000,
+    "tracking_code": "16180",
+    "address": "21 Jumpstreet 5th Boulevard",
+    "status": "in-transit",
+    "date": "2024-08-30"
+},
+{
+    "id": 27,
+    "user_id": 3,
+    "products": ["HP Pavilion 15", "OnePlus 9 Pro", "Google Nest Wifi", "Sony WH-CH710N", "Kindle Paperwhite"],
+    "total_price": 32000,
+    "tracking_code": "78439",
+    "address": "456 Elm Street, Apt 12B",
+    "status": "in-transit",
+    "date": "2024-01-25"
+},
+{
+    "id": 28,
+    "user_id": 4,
+    "products": ["Dell Latitude 7420", "Samsung Galaxy A72", "Echo Dot", "Fitbit Luxe", "Bose Frames"],
+    "total_price": 27000,
+    "tracking_code": "92457",
+    "address": "789 Maple Avenue, Suite 300",
+    "status": "in-transit",
+    "date": "2024-02-15"
+},
+{
+    "id": 29,
+    "user_id": 5,
+    "products": ["Lenovo IdeaPad 3", "Sony Xperia 10", "Google Nest Mini", "JBL Clip 4"],
+    "total_price": 14500,
+    "tracking_code": "83924",
+    "address": "123 Pine Street, House 7",
+    "status": "in-transit",
+    "date": "2024-03-05"
+},
+{
+    "id": 30,
+    "user_id": 6,
+    "products": ["Acer Aspire 5", "Realme GT Master Edition", "Google Nest Hub", "Fitbit Charge 4"],
+    "total_price": 20000,
+    "tracking_code": "59012",
+    "address": "555 Birch Lane, Unit 22",
+    "status": "in-transit",
+    "date": "2024-03-22"
+},
+{
+    "id": 31,
+    "user_id": 7,
+    "products": ["Samsung Galaxy Book Pro", "Xiaomi Mi 11 Ultra", "Echo Show 8", "Sony SRS-XB43"],
+    "total_price": 36500,
+    "tracking_code": "72094",
+    "address": "678 Cedar Road, Flat 3C",
+    "status": "in-transit",
+    "date": "2024-04-15"
+},
+{
+    "id": 32,
+    "user_id": 8,
+    "products": ["ASUS TUF Gaming", "OnePlus Nord 2", "Nest Cam", "Bose QuietComfort Earbuds"],
+    "total_price": 29000,
+    "tracking_code": "86047",
+    "address": "890 Spruce Street, Floor 4",
+    "status": "in-transit",
+    "date": "2024-04-30"
+},
+{
+    "id": 33,
+    "user_id": 9,
+    "products": ["HP Spectre x360", "iPhone 12", "Google Nest Audio", "Sony WH-1000XM4"],
+    "total_price": 54000,
+    "tracking_code": "47820",
+    "address": "321 Walnut Street, Room 1A",
+    "status": "in-transit",
+    "date": "2024-05-12"
+},
+{
+    "id": 34,
+    "user_id": 10,
+    "products": ["Microsoft Surface Laptop", "Samsung Galaxy Z Fold 2", "Echo Dot 3rd Gen", "JBL Bar 5.1"],
+    "total_price": 48500,
+    "tracking_code": "10293",
+    "address": "432 Ash Street, Box 8",
+    "status": "in-transit",
+    "date": "2024-05-25"
+},
+{
+    "id": 35,
+    "user_id": 1,
+    "products": ["Dell XPS 15", "OnePlus 9", "Nest Thermostat", "Sony SRS-XB33"],
+    "total_price": 33500,
+    "tracking_code": "94567",
+    "address": "21 Jumpstreet 5th Boulevard",
+    "status": "in-transit",
+    "date": "2024-06-01"
+},
+{
+    "id": 36,
+    "user_id": 2,
+    "products": ["Apple MacBook Pro", "Samsung Galaxy S21 Ultra", "Amazon Echo Show", "Bose SoundLink"],
+    "total_price": 45500,
+    "tracking_code": "56743",
+    "address": "21 Jumpstreet 5th Boulevard",
+    "status": "in-transit",
+    "date": "2024-06-15"
+},
+{
+    "id": 37,
+    "user_id": 3,
+    "products": ["Lenovo Yoga Slim 7", "Google Pixel 5", "Nest Hub Max", "Sony WF-SP800N"],
+    "total_price": 31000,
+    "tracking_code": "23145",
+    "address": "456 Elm Street, Apt 12B",
+    "status": "in-transit",
+    "date": "2024-06-20"
+},
+{
+    "id": 38,
+    "user_id": 4,
+    "products": ["HP EliteBook", "Xiaomi Mi 10T Pro", "Echo Studio", "JBL Pulse 4"],
+    "total_price": 27500,
+    "tracking_code": "67543",
+    "address": "789 Maple Avenue, Suite 300",
+    "status": "in-transit",
+    "date": "2024-07-04"
+},
+{
+    "id": 39,
+    "user_id": 5,
+    "products": ["Microsoft Surface Go 2", "Samsung Galaxy Note 20", "Google Nest Mini", "Sony WH-CH710N"],
+    "total_price": 24000,
+    "tracking_code": "39485",
+    "address": "123 Pine Street, House 7",
+    "status": "in-transit",
+    "date": "2024-07-19"
+},
+{
+    "id": 40,
+    "user_id": 6,
+    "products": ["Asus ZenBook 14", "Oppo Find X3 Pro", "Nest Wifi Router", "Bose Noise Cancelling Headphones 700"],
+    "total_price": 36500,
+    "tracking_code": "14875",
+    "address": "555 Birch Lane, Unit 22",
+    "status": "in-transit",
+    "date": "2024-08-03"
+}
+]
